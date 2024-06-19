@@ -3,7 +3,8 @@
 ![Description of the Hero image](Hero.png)
 
 ## Presentation:
-[Link to youtube!](#)
+
+[Youtube Presentation](https://www.youtube.com/watch?v=DGmuJAFcILM&list=PLHZ4c16wSRSvCnZchOVMyTqcSHXGdIP2h&index=6&ab_channel=FelixDrawe)
 
 ## Table of Contents
 
@@ -88,8 +89,7 @@ Consists of 2 Django Apps:
 
   - `models.py`: Includes 2 models. One uses `AbstractUser` to create a user, the other creates profiles/accounts.
 
-- **Folder api inside Users:**
-  -
+- ## **Folder api inside Users:**
 
 2 files: - `serializers.py` - `views.py` to create the API.
 
@@ -168,7 +168,6 @@ For setting up the frontend of the project, proceed with the following:
    ```
 
 Once both installations are complete, start the backend server with `python manage.py runserver` from the backend terminal, and the frontend development server with `npm run dev` from the frontend terminal.
-
 
 ### There are already testprofiles created:
 
